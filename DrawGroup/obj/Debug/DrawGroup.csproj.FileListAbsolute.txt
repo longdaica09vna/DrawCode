@@ -1,0 +1,9 @@
+D:\Document\Visual Studio 2015\Projects\DrawGroup\DrawGroup\bin\Debug\DrawGroup.exe.config
+D:\Document\Visual Studio 2015\Projects\DrawGroup\DrawGroup\bin\Debug\DrawGroup.exe
+D:\Document\Visual Studio 2015\Projects\DrawGroup\DrawGroup\bin\Debug\DrawGroup.pdb
+D:\Document\Visual Studio 2015\Projects\DrawGroup\DrawGroup\obj\Debug\DrawGroup.csprojResolveAssemblyReference.cache
+D:\Document\Visual Studio 2015\Projects\DrawGroup\DrawGroup\obj\Debug\DrawGroup.Form1.resources
+D:\Document\Visual Studio 2015\Projects\DrawGroup\DrawGroup\obj\Debug\DrawGroup.Properties.Resources.resources
+D:\Document\Visual Studio 2015\Projects\DrawGroup\DrawGroup\obj\Debug\DrawGroup.csproj.GenerateResource.Cache
+D:\Document\Visual Studio 2015\Projects\DrawGroup\DrawGroup\obj\Debug\DrawGroup.exe
+D:\Document\Visual Studio 2015\Projects\DrawGroup\DrawGroup\obj\Debug\DrawGroup.pdb
